@@ -6,7 +6,7 @@ public class animals {
 	public animals(String name,String play, String run) {
 		super();
 		this.name = name;
-		this.cry = cry;
+		this.play = play;
 		this.eat = eat;
 	}
 	public static void main(String[] args) {
