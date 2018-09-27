@@ -10,7 +10,7 @@ public class animals {
 		this.eat = eat;
 	}
 	public static void main(String[] args) {
-            
+
 
 	}
 
