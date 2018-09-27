@@ -1,23 +1,17 @@
-# Root
-
-
 public class animals {
+	 String name;
+	 String play;
+	 String run;
 	
-	
-	
-	void run() {
-		System.out.println("跑");
-	}
-	void play() {
-		System.out.println("玩");
+	public animals(String name,String play, String run) {
+		super();
+		this.name = name;
+		this.cry = cry;
+		this.eat = eat;
 	}
 	public static void main(String[] args) {
 		
-		
-		
-		
+	    
 	}
-
-}
 
 }
