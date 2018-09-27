@@ -1,0 +1,14 @@
+public class Monkey extends Zoo {
+	private int age;
+	public Monkey (String name, String play, String eat,int age) {
+		super(name, play, cry);
+
+		public void eat(){
+                 System.out.println(" 香蕉");
+                 }
+                 public void  play(){
+                          System.out.println(" 跳");
+                          }
+		
+	}
+}
