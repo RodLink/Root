@@ -18,7 +18,7 @@ public class animals {
              System.out.println("滚");
              }
              public void eat(){
-             System.out.println("屎");
+             System.out.println(" 屎");
              }
 
 	}
