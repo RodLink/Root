@@ -1,0 +1,8 @@
+public class Monkey extends Zoo {
+	private int age;
+	public Monkey (String name, String play, String cry,int age) {
+		super(name, play, cry);
+		this.age = age;
+		this.play = play;
+	}
+}
